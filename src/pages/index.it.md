@@ -2,7 +2,7 @@
 id: '01'
 title: "Pagina home italiano"
 description: "qualche contenuto"
-templateKey: home
+templateKey: home-story
 tags:
   - web
 lang: it
