@@ -141,7 +141,7 @@ query ArtworksSimpleQuery($id: String!) {
        lang
        image {
          childImageSharp {
-           fluid(maxWidth: 1200, quality: 86) {
+           fluid(maxWidth: 1500, quality: 86) {
              ...GatsbyImageSharpFluid
              src
            }
